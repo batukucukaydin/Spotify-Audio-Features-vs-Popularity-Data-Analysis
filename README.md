@@ -63,3 +63,15 @@ The analysis automatically generates the following visualizations in the `output
 - **Core**: `pandas`, `numpy`
 - **Visualization**: `matplotlib`, `seaborn`
 - **Modeling**: `scikit-learn` (Linear Regression baseline)
+
+## 👨‍💻 Author
+
+**Batuhan Küçükaydın**  
+Software Engineer | Computer Engineer | iOS Developer  
+📫 [LinkedIn](https://linkedin.com/in/batuhankucukaydin) • [GitHub](https://github.com/batukucukaydin) • [Medium](https://medium.com/@batukucukaydin)
+
+## ⭐️ Support
+
+If you like this project, please consider giving it a star 🌟  
+It really helps me keep building and improving!
+
